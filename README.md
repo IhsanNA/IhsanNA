@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IhsanNA
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning software engineering
