@@ -1,5 +1,4 @@
 <h1 align="center">Hello World!!, I'm Ihsan</h1>
-<h3 align="center">Im a person</h3>
 
 <h3 align="center">Contact me : </h3>
 <p align="center">
